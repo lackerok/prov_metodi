@@ -169,7 +169,7 @@
     ]),
   ]
 }
-```
+
 # Задание 2
 <img width="602" height="329" alt="image" src="https://github.com/user-attachments/assets/16f7dedc-f6a6-4335-89a4-22afad25b511" />
 <img width="942" height="557" alt="image" src="https://github.com/user-attachments/assets/20bdb9a7-cc66-45c1-995f-73b39ede6128" />
