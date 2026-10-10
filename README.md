@@ -180,10 +180,10 @@
 <img width="732" height="295" alt="image" src="https://github.com/user-attachments/assets/fc5dfe26-b012-45fb-b732-d43207d0a4ae" />
 <img width="909" height="474" alt="image" src="https://github.com/user-attachments/assets/d9a15cfd-1a45-4d57-a3d3-f7d7840315ed" />
 
-# Список выполненных команд
+### Список выполненных команд
 
-```
-Просмотр списка ресурсов в стейте
+```bash
+# 1. Просмотр списка ресурсов в стейте
 terraform state list
 
 # 2. Удаление модуля VPC из стейта
